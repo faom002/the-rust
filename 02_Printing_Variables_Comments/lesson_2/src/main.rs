@@ -30,11 +30,7 @@ fn main() {
 
 
 
-    let mut text = String::new();
 
- text = "hello".to_string();
-
- println!("{text}");
 
 
 }
